@@ -52,19 +52,19 @@
     <auto_group register_new="true" register_quick="true" max_lvl="55" min_lvl="51" title_id="903479" name_id="402045" instanceId="300350000" id="22" npc_ids="730482 730481"/>
     <auto_group register_new="true" register_quick="true" max_lvl="60" min_lvl="56" title_id="903479" name_id="402045" instanceId="300350000" id="23" npc_ids="730482 730481"/>
     <auto_group register_new="true" register_quick="true" max_lvl="65" min_lvl="61" title_id="903479" name_id="402045" instanceId="300350000" id="39" npc_ids="730482 730481"/>
-    <auto_group register_new="true" register_quick="true" max_lvl="75" min_lvl="66" title_id="903479" name_id="402045" instanceId="300350000" id="113" npc_ids="0"/>
+    <auto_group register_new="true" register_quick="true" max_lvl="75" min_lvl="66" title_id="903479" name_id="402045" instanceId="300350000" id="113" npc_ids="730482 730481"/>
     <!-- Arena of Discipline -->
     <auto_group register_new="true" max_lvl="50" min_lvl="46" title_id="903479" name_id="402046" instanceId="300360000" id="24" npc_ids="730484 730483"/>
     <auto_group register_new="true" max_lvl="55" min_lvl="51" title_id="903479" name_id="402046" instanceId="300360000" id="25" npc_ids="730484 730483"/>
     <auto_group register_new="true" max_lvl="60" min_lvl="56" title_id="903479" name_id="402046" instanceId="300360000" id="26" npc_ids="730484 730483"/>
     <auto_group register_new="true" max_lvl="65" min_lvl="61" title_id="903479" name_id="402046" instanceId="300360000" id="40" npc_ids="730484 730483"/>
-    <auto_group register_new="true" max_lvl="75" min_lvl="66" title_id="903479" name_id="402046" instanceId="300360000" id="114" npc_ids="0"/>
+    <auto_group register_new="true" max_lvl="75" min_lvl="66" title_id="903479" name_id="402046" instanceId="300360000" id="114" npc_ids="730484 730483"/>
     <!-- Chaos Training Grounds -->
     <auto_group register_new="true" register_quick="true" max_lvl="50" min_lvl="46" title_id="903479" name_id="403259" instanceId="300420000" id="27" npc_ids="207059 207057"/>
     <auto_group register_new="true" register_quick="true" max_lvl="55" min_lvl="51" title_id="903479" name_id="403259" instanceId="300420000" id="28" npc_ids="207059 207057"/>
     <auto_group register_new="true" register_quick="true" max_lvl="60" min_lvl="56" title_id="903479" name_id="403259" instanceId="300420000" id="29" npc_ids="207059 207057"/>
     <auto_group register_new="true" register_quick="true" max_lvl="65" min_lvl="61" title_id="903479" name_id="403259" instanceId="300420000" id="43" npc_ids="207059 207057"/>
-    <auto_group register_new="true" register_quick="true" max_lvl="75" min_lvl="66" title_id="903479" name_id="403259" instanceId="300420000" id="117" npc_ids="0"/>
+    <auto_group register_new="true" register_quick="true" max_lvl="75" min_lvl="66" title_id="903479" name_id="403259" instanceId="300420000" id="117" npc_ids="207059 207057"/>
     <!-- Discipline Training Grounds -->
     <auto_group register_new="true" max_lvl="50" min_lvl="46" title_id="903479" name_id="403260" instanceId="300430000" id="30" npc_ids="207058 207056"/>
     <auto_group register_new="true" max_lvl="55" min_lvl="51" title_id="903479" name_id="403260" instanceId="300430000" id="31" npc_ids="207058 207056"/>
@@ -77,12 +77,12 @@
     <auto_group register_new="true" register_quick="true" register_group="true" max_lvl="55" min_lvl="51" title_id="904400" name_id="403505" instanceId="300450000" id="34" npc_ids="730576 730577"/>
     <auto_group register_new="true" register_quick="true" register_group="true" max_lvl="60" min_lvl="56" title_id="904400" name_id="403505" instanceId="300450000" id="35" npc_ids="730576 730577"/>
     <auto_group register_new="true" register_quick="true" register_group="true" max_lvl="65" min_lvl="61" title_id="904400" name_id="403505" instanceId="300450000" id="41" npc_ids="730576 730577"/>
-    <auto_group register_new="true" register_quick="true" register_group="true" max_lvl="75" min_lvl="66" title_id="904400" name_id="403505" instanceId="300450000" id="115" npc_ids="0"/>
+    <auto_group register_new="true" register_quick="true" register_group="true" max_lvl="75" min_lvl="66" title_id="904400" name_id="403505" instanceId="300450000" id="115" npc_ids="730576 730577"/>
     <!-- Arena of Glory -->
     <auto_group register_new="true" register_quick="true" max_lvl="50" min_lvl="46" title_id="903479" name_id="403554" instanceId="300550000" id="36" npc_ids="0"/>
     <auto_group register_new="true" register_quick="true" max_lvl="60" min_lvl="56" title_id="903479" name_id="403554" instanceId="300550000" id="38" npc_ids="730644 730645"/>
     <auto_group register_new="true" register_quick="true" max_lvl="65" min_lvl="61" title_id="903479" name_id="403554" instanceId="300550000" id="42" npc_ids="730644 730645"/>
-    <auto_group register_new="true" register_quick="true" max_lvl="75" min_lvl="66" title_id="903479" name_id="403554" instanceId="300550000" id="116" npc_ids="0"/>
+    <auto_group register_new="true" register_quick="true" max_lvl="75" min_lvl="66" title_id="903479" name_id="403554" instanceId="300550000" id="116" npc_ids="730644 730645"/>
     <!-- Training Camp of Cooperation -->
     <auto_group register_new="true" register_quick="true" register_group="true" max_lvl="65" min_lvl="61" title_id="904400" name_id="403574" instanceId="300570000" id="45" npc_ids="207097 207098"/>
     <auto_group register_new="true" register_quick="true" register_group="true" max_lvl="50" min_lvl="46" title_id="904400" name_id="403574" instanceId="300570000" id="101" npc_ids="207097 207098"/>
@@ -196,7 +196,7 @@
     <!-- Trillonerk's Gold Vault -->
     <auto_group register_new="true" register_quick="true" max_lvl="128" min_lvl="45" title_id="903282" name_id="404870" instanceId="301590000" id="353" npc_ids="0"/>
     <!-- Adma Ruins -->
-    <auto_group register_new="true" register_quick="true" max_lvl="128" min_lvl="66" title_id="903282" name_id="404871" instanceId="301600000" id="354" npc_ids="0"/>
+    <auto_group register_new="true" register_quick="true" max_lvl="128" min_lvl="66" title_id="903282" name_id="404871" instanceId="301600000" id="354" npc_ids="806201 806203"/>
     <!-- Elemental Lord's Laboratory -->
     <auto_group register_new="true" register_quick="true" max_lvl="128" min_lvl="66" title_id="903282" name_id="404872" instanceId="301610000" id="355" npc_ids="0"/>
     <!-- Arkhal's Hidden Space -->

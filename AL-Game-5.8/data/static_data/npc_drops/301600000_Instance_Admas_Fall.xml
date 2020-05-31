@@ -90,14 +90,32 @@
     <npc_drop npc_id="220418">
         <drop_group name="OTHER_MYTHIC_LVL40" use_category="true" race="PC_ALL">
             <drop item_id="166100010" chance="10.00" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" name="Normal Supplements (Mythical)" />
+            <drop item_id="188057621" chance="5.00" min_amount="1" max_amount="2" no_reduce="false" eachmember="false" name="Noble +4 Manastone Bundle (Fabled)" />
         </drop_group>
-        <drop_group name="CURSED_ADMA_KEY" use_category="true" race="PC_ALL">
-            <drop item_id="185000263" chance="25.00" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Black Cloud Box Key (Fabled)" />
+		<drop_group name="BLACK_CLOUD_CHEST" use_category="true" race="PC_ALL">
+            <drop item_id="188100225" chance="10.00" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Black Cloud Box (Fabled)" />
+        </drop_group>
+		<drop_group name="BLACK_CLOUD_KEY" use_category="true" race="PC_ALL">
+            <drop item_id="188100228" chance="10.00" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Black Cloud Box Key (Fabled)" />
+        </drop_group>
+		<drop_group name="CURSED_ADMA_KEY" use_category="true" race="PC_ALL">
+            <drop item_id="185000263" chance="0.10" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Black Cloud Box Key (Fabled)" />
         </drop_group>
     </npc_drop>
     <npc_drop npc_id="220427">
         <drop_group name="OTHER_MYTHIC_LVL69" use_category="true" race="PC_ALL">
             <drop item_id="188055343" chance="10.00" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Fiend's Loot" />
+        </drop_group>
+		<drop_group name="TEMPERING_SOLUTIONS" use_category="true" race="PC_ALL">
+			<drop item_id="166030005" chance="50.00" min_amount="1" max_amount="10" no_reduce="false" eachmember="true" name="Tempering Solution" />
+			<drop item_id="166040001" chance="50.00" min_amount="1" max_amount="10" no_reduce="false" eachmember="true" name="Essence Core Solution" />
+		</drop_group>
+		<drop_group name="CHAOTIC_DIMENSION_BUNDLE" use_category="true" race="PC_ALL">
+			<drop item_id="188057620" chance="100.00" min_amount="1" max_amount="22" no_reduce="false" eachmember="true" name="Chaotic Dimension Stone Bundle" />
+		</drop_group>
+		<drop_group name="OTHER_ETERNAL_LVL69" use_category="true" race="PC_ALL">
+            <drop item_id="188057616" chance="10.00" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Adma's Weapon Box" />
+			<drop item_id="188057617" chance="10.00" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Adma's Armor Box" />
         </drop_group>
     </npc_drop>
 	<npc_drop npc_id="806221">

@@ -108,8 +108,10 @@
 	<!-- Library_of_Knowledge (Quest) Exit -->
 	<portal_use npc_id="806179">
 		<portal_path loc_id="3015701" race="ELYOS"/>
+		<portal_path loc_id="3015702" race="ASMODIANS"/>
 	</portal_use>
 	<portal_use npc_id="806180">
+		<portal_path loc_id="3015701" race="ELYOS"/>
 		<portal_path loc_id="3015702" race="ASMODIANS"/>
 	</portal_use>
 
