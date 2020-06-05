@@ -269,7 +269,7 @@ public class _2900NoEscapingDestiny extends QuestHandler {
 			int var = qs.getQuestVarById(0);
 			if (var == 98) {
 				changeQuestStep(env, 98, 9, false); // 9
-				TeleportService2.teleportTo(player, 220010000, 1112.3679f, 1720.8495f, 270.0949f, (byte) 102, TeleportAnimation.BEAM_ANIMATION);
+				TeleportService2.teleportTo(player, 220010000, 1103.6028f, 1728.0868f, 268.63983f, (byte) 114, TeleportAnimation.BEAM_ANIMATION);
 				return true;
 			}
 		}

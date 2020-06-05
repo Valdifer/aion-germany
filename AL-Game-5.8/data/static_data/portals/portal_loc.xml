@@ -906,4 +906,11 @@
 	<portal_loc world_id="210100000" loc_id="3016102" x="1370.0597" y="1576.296" z="334.5" h="98"/>
 	<!-- Theobomos Test Chamber - Exit Asmodians -->
 	<portal_loc world_id="220110000" loc_id="3016103" x="1819.3087" y="2212.7468" z="213.02817" h="22"/>
+	
+	<!-- Secret Munition Factory -->
+	<!-- Secret Munition Factory Exit - Elyos -->
+	<portal_loc world_id="110010000" loc_id="3016401" x="1324.595" y="1511.8945" z="567.857" h="0"/>
+	<!-- Secret Munition Factory Exit - Asmodians -->
+	<portal_loc world_id="120010000" loc_id="3016402" x="1673.9984" y="1400.5189" z="194.74724" h="59"/>
+	
 </portal_locs>
